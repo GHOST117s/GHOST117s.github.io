@@ -25,7 +25,7 @@
 const skills = {
     frontend: ['React', 'Next.js', 'HTML5', 'CSS3', 'JavaScript',],
     backend: ['Laravel', 'PHP', 'Python'],
-    database: ['MySQL'],
+    database: ['Postgres, MySQL'],
     frameworks: ['Bootstrap', 'Tailwind CSS', 'Semantic UI'],
     tools: ['Git', 'Postman', 'Linux'],
     currentlyLearning: ['Advanced React Patterns', 'Laravel Filament','Ruby on Rails'],

@@ -4,9 +4,16 @@
   <h1>👋 Hello World, I'm Sidharth Kumar Samal!</h1>
   <h3>💻 Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sidharth-kumar-samal)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sidharth_kumar_117)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidharthkumarsamal@gmail.com)
+ <a href="https://linkedin.com/in/sidharth-kumar-samal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/sidharth_kumar_117" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:sidharthkumarsamal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2021/12/djbwgfw.gif"/>

@@ -30,10 +30,9 @@
 
 ```javascript
 const skills = {
-    frontend: ['React', 'Next.js', 'HTML5', 'CSS3', 'JavaScript',],
+    frontend: ['React', 'Next.js', 'HTML5', 'CSS3', 'JavaScript','Tailwind CSS', 'Semantic UI'],
     backend: ['Laravel', 'PHP', 'Python'],
     database: ['Postgres, MySQL'],
-    frameworks: ['Bootstrap', 'Tailwind CSS', 'Semantic UI'],
     tools: ['Git', 'Postman', 'Linux'],
     currentlyLearning: ['Advanced React Patterns', 'Laravel Filament','Ruby on Rails'],
 }
@@ -43,7 +42,7 @@ const skills = {
 
 ### 🌱 Currently Learning
 
-- **DevOps**: Kubernetes, Terraform
+- **DevOps**: Azure
 - **Backend**: GraphQL, Microservices
 - **Frontend**: TypeScript, Next.js
 
